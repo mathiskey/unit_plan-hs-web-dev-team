@@ -1,5 +1,5 @@
 # UNIT PLAN NAME
-by Shana Henry, Yemin young and Christine Marra
+by Shana Henry, Yenmin Young and Christine Marra
 
 -----
 
