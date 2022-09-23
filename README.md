@@ -14,9 +14,14 @@ by Shana Henry, Yenmin Young and Christine Marra
 ---
 
 ### Standards Referenced
-List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
+9-12.IC.7 Investigate the use of computer science in multiple fields.
+9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+9-12.NSD.4 Describe the components and design chaacteristics that allow data and information to be moved, stored and referenced over the Internet.
+9-12.NDS.5 Describe how emerging technologies are impacting networks and how they are used.
+9-12 CY.1 Determine the types of personal and organizational informationand digital resources that an individual may have access tothat needs to be protected.
 
----
+
+ ---
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
