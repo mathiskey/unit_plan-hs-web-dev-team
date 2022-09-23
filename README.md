@@ -1,19 +1,21 @@
 # UNIT PLAN NAME
-by Shana Henry, Yenmin Young and Christine Marra
+by Shana Elizabeth Henry, Yenmin Young and Christine Marra
 
 -----
 
-### General Overview
+### General Overview -- Yenmin
+
 (include here description of unit, what class(es) it fits into, when...)
 
 ---
 
-### Motivation for Unit
+### Motivation for Unit -- Shana
+
 (why have you decided to make this?)
 
 ---
 
-### Standards Referenced
+### Standards Referenced -- Christine
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
 
 ---
